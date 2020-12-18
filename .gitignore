@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+tweet-jul-dk-novdec-2020.csv
+.DS_Store
